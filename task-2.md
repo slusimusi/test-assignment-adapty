@@ -6,8 +6,8 @@
 
 In the Design paywalls with new Paywall Builder section, I'd rather use such a structure:
 
-- Step-by-step guide for Paywall Builder
-    - Step 1. Migrate to the new Paywall Builder
+- Design Paywall Builder step by step
+    - Step 1. Migrate to our new Paywall Builder
     - Step 2. Create a paywall
         - Create with Paywall template
         - Create with Paywall generator
@@ -26,7 +26,7 @@ In the Design paywalls with new Paywall Builder section, I'd rather use such a s
         - Custom tags
         - Custom images and video
         - Custom fonts    
-    - Step 6. Preview paywalls   
+    - Step 6. Preview a paywall   
 
     
 
