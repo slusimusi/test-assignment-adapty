@@ -6,8 +6,8 @@
 
 In the Design paywalls with new Paywall Builder section, I'd rather use such a structure:
 
-- Design paywalls with new Paywall Builder
-    - Step 1. Migrate to new Paywall Builder
+- Step-by-step guide for Paywall Builder
+    - Step 1. Migrate to the new Paywall Builder
     - Step 2. Create a paywall
         - Create with Paywall template
         - Create with Paywall generator
